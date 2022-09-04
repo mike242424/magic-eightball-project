@@ -3,7 +3,7 @@ userName ? console.log(`Hello, ${userName}`) : console.log("Hello");
 
 let userQuestion = "will I win the lotto?";
 
-randomNumber = Math.floor(Math.random() * 8);
+let randomNumber = Math.floor(Math.random() * 8);
 
 let eightBall = "";
 
